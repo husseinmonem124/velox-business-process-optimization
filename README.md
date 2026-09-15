@@ -245,3 +245,11 @@ VELOX is a fictional portfolio project.
 All companies, processes, datasets, financial figures, operational metrics, and business scenarios are fictional and created for educational and portfolio purposes.
 
 No real company data is used.
+
+---
+
+## Author
+
+**Hussein Monem**
+
+
